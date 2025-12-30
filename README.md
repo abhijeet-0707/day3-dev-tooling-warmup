@@ -7,7 +7,7 @@
 
 ## 2. Postman
 - **Workspace:** "My Workspace"  
-- **API:** "Warm-up-API" created
+- **API:** "Blog-Post-API" created
 
 ## 3. Release Management Process
 - **Release at Flowcard :** "New version of the app live for users."
