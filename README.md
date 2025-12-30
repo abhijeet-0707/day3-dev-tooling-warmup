@@ -1,7 +1,7 @@
 # Day 3 Deliverables
 
 ## 1. GitHub Repo
-- **Name:** day3-warmup  
+- **Name:** day3-dev-tooling-warmup
 - **Contains:** Git notes + tool screenshots
 - **Link :** https://github.com/abhijeet-0707/day3-dev-tooling-warmup
 
