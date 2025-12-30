@@ -3,11 +3,19 @@
 ## 1. GitHub Repo
 - **Name:** day3-warmup  
 - **Contains:** Git notes + tool screenshots
+- **Link :** https://github.com/abhijeet-0707/day3-dev-tooling-warmup
 
-## 2. FloCard + Postman
+## 2. Postman
 - **Workspace:** "My Workspace"  
-- **API:** "Warm-up-API" created  
-- **Ready:** Share link for team
+- **API:** "Warm-up-API" created
+
+## 3. Release Management Process
+- **Release at Flowcard :** "New version of the app live for users."
+- **Work-Flow :**
+  * Dev: Writes code
+  * QA: Tests APIs
+  * FOU: Final check
+  * Deploy: Puts live
 
 ## 3. FloCard One-Pager
 **What:** Digital business card app  
@@ -19,7 +27,7 @@
 |------|--------|
 | Git | Version checked |
 | VS Code | Installed |
-| Postman | API ready |
+| Postman | API created |
 | Node/NPM | Versions OK |
 | Docker | hello-world ran |
 
